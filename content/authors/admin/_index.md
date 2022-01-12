@@ -1,6 +1,6 @@
 ---
 title: Alberte Seeberg
-role: Ph.D. Student | Center for Music in the Brain, Aarhus University, Denmark
+role: "Ph.D. Student "
 avatar_filename: received_2313400392221710.jpg
 bio: ""
 interests:
