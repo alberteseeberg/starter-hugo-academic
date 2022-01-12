@@ -40,6 +40,4 @@ highlight_name: true
 ---
 I am a PhD student at Center for Music in the Brain, Aarhus University, with a background in Cognitive Science. My project concerns rhythm and groove perception in cochlear implant users and the potential for perceptual enhancement through haptic stimulation. Previously, I have been working at the Center as a research assistant as part of a project on cochlear implant users and their perception and enjoyment of music. 
 
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
