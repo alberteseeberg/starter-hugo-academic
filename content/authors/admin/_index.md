@@ -2,13 +2,14 @@
 title: Alberte Seeberg
 role: Ph.D. Student | Center for Music in the Brain, Aarhus University, Denmark
 avatar_filename: received_2313400392221710.jpg
-bio: My research interests include neurscience and music, multisensory
-  perception, neurogastronomy, machine learning, clinical decision support
-  systems, health tech
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroscience and music
+  - Multisensory perception
+  - Neurogastronomy
+  - Machine learning
+  - Clinical decision support systems
+  - Health tech
 social:
   - icon: envelope
     icon_pack: fas
