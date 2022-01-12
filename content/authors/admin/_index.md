@@ -28,16 +28,16 @@ organizations:
     url: https://musicinthebrain.au.dk/
 education:
   courses:
-    - course: BSc in Cognitive Science, 2016 - 2019
+    - course: PhD Student, 2021 - 2024
+      institution: Aarhus University
+      year: ""
+    - course: MSc in Cognitive Science, 2019 - 2021
       institution: Aarhus University
       year: ""
     - course: BSc Semester Abroad
       institution: Michigan State University
       year: 2019
-    - course: MSc in Cognitive Science, 2019 - 2021
-      institution: Aarhus University
-      year: ""
-    - course: PhD Student, 2021 - 2024
+    - course: BSc in Cognitive Science, 2016 - 2019
       institution: Aarhus University
       year: ""
 email: ""
