@@ -30,7 +30,7 @@ education:
   courses:
     - course: BSc in Cognitive Science
       institution: Aarhus University
-      year: -3
+      year: ""
     - course: BSc in Cognitive Science (Semester abroad)
       institution: Michigan State University
       year: 2019
