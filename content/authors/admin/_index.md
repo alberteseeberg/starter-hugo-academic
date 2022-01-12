@@ -30,10 +30,16 @@ education:
   courses:
     - course: BSc in Cognitive Science
       institution: Aarhus University
-      year: 2020
+      year: -3
+    - course: BSc in Cognitive Science (Semester abroad)
+      institution: Michigan State University
+      year: 2019
     - course: MSc in Cognitive Science
       institution: Aarhus University
-      year: 2021
+      year: ""
+    - course: PhD Student
+      institution: Aarhus University
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
