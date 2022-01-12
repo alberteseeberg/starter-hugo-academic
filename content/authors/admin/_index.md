@@ -1,8 +1,10 @@
 ---
 title: Alberte Seeberg
 role: Ph.D. Student | Center for Music in the Brain, Aarhus University, Denmark
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: received_2313400392221710.jpg
+bio: My research interests include neurscience and music, multisensory
+  perception, neurogastronomy, machine learning, clinical decision support
+  systems, health tech
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -13,37 +15,30 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/alberteseeberg
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/alberteseeberg
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://dk.linkedin.com/in/alberte-seeberg-044404191
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Center for Music in the Brain, Aarhus University
+    url: https://musicinthebrain.au.dk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Cognitive Science
+      institution: Aarhus University
+      year: 2020
+    - course: MSc in Cognitive Science
+      institution: Aarhus University
+      year: 2021
 email: ""
 superuser: true
 highlight_name: true
 ---
+I am a PhD student at Center for Music in the Brain, Aarhus University, with a background in Cognitive Science. My project concerns rhythm and groove perception in cochlear implant users and the potential for perceptual enhancement through haptic stimulation. Previously, I have been working at the Center as a research assistant as part of a project on cochlear implant users and their perception and enjoyment of music. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
