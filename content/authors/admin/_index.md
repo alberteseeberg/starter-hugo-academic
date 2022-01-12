@@ -1,7 +1,7 @@
 ---
 title: Alberte Seeberg
 role: "Ph.D. Student "
-avatar_filename: received_2313400392221710.jpg
+avatar_filename: lille.jpeg
 bio: ""
 interests:
   - Neuroscience and music
